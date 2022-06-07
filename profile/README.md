@@ -1,5 +1,12 @@
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Welcome to Interesting Ideas Inc </h1>
+<h1 align="center">Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to Interesting Ideas Inc </h1>
+
+<h3 align="center">We Create Websites, Mobile Apps & Brands</h3>
+
+- 👨🏾‍💻 Currently working on Web and Android projects
+- ✌🏾 Looking forward to collaborating with other Backend Developers and Android enthusiasts
+- 📫 We are available to answer your android and web related questions.
+- 📫 Feel Free to send contact Us
 
 <p align="center"> 
  <a href="https://twitter.com/adamsonsamson4">
