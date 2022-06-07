@@ -1,12 +1,13 @@
 
-<h1 align="center">Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to Interesting Ideas Inc </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Welcome to Interesting Ideas Inc</h1>
 
 <h3 align="center">We Create Websites, Mobile Apps & Brands</h3>
 
-- 👨🏾‍💻 Currently working on Web and Android projects
-- ✌🏾 Looking forward to collaborating with other Backend Developers and Android enthusiasts
-- 📫 We are available to answer your android and web related questions.
-- 📫 Feel Free to send contact Us
+- 👨🏾‍💻 We are technology company of creatives, developers and strategists, based in Arusha, Tanzania.
+- ✌🏾 We attract attention, change and increase impact. 
+- 📫 Don't blend in. Let's create awesome products together!
+- 📫 Let's talk about your next project.
 
 <p align="center"> 
  <a href="https://twitter.com/adamsonsamson4">
